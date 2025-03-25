@@ -1,3 +1,4 @@
+//rsc
 import Navi from "./Navi.jsx";
 import Title from "./Title.jsx";
 

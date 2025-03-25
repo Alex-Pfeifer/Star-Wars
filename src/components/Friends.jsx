@@ -1,3 +1,4 @@
+//rsc
 import React from 'react';
 import friend1 from "../assets/friend1.jpg";
 import friend2 from "../assets/friend2.jpg";

@@ -1,3 +1,4 @@
+//rsc
 import React from 'react';
 import main from "../assets/main.jpg";
 

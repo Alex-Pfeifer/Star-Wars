@@ -1,3 +1,4 @@
+//rsc
 import React from 'react';
 import Hero from "./Hero.jsx";
 import Friends from "./Friends.jsx";
