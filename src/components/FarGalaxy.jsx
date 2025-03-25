@@ -26,4 +26,5 @@ const FarGalaxy = () => {
     );
 };
 
+
 export default FarGalaxy;
