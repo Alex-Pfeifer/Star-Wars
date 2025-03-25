@@ -1,3 +1,4 @@
+//rsc
 import {openingCrawl} from "../utils/constants.js";
 
 const FarGalaxy = () => {

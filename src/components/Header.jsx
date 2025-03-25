@@ -1,3 +1,4 @@
+//rsc
 import Navigation from "./Navigation.jsx";
 
 const Header = () => {

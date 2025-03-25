@@ -1,3 +1,4 @@
+//rsc
 import friend1 from "../assets/friend1.jpg";
 import friend2 from "../assets/friend2.jpg";
 import friend3 from "../assets/friend3.jpg";

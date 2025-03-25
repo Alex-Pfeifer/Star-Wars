@@ -1,3 +1,4 @@
+//rsc
 const Navigation = () => {
     return (
         <nav className="fixed-top mt-2 ms-5">

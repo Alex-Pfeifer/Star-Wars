@@ -1,3 +1,4 @@
+//rsc
 const Footer = () => {
     return (
         <footer className="rounded-bottom-4 row align-items-center">
