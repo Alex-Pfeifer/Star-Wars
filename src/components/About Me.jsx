@@ -27,13 +27,13 @@ const AboutMe = () => {
                 <img src={luke_skywalker} alt="Hero"/>
             </div>
             <div className="col-sm-10">
-                <p>Name:{openingAboutMe.name}</p>
+                <p>Name: {openingAboutMe.name}</p>
                 <p>Gender: {openingAboutMe.gender}</p>
-                <p>Hair Color:{openingAboutMe.hair_color}</p>
-                <p>Height:{openingAboutMe.height} cm</p>
-                <p>Eye Color:{openingAboutMe.eye_color}</p>
-                <p>Mass:{openingAboutMe.mass} kg</p>
-                <p>Birth Year:{openingAboutMe.birth_year}</p>
+                <p>Hair Color: {openingAboutMe.hair_color}</p>
+                <p>Height: {openingAboutMe.height} cm</p>
+                <p>Eye Color: {openingAboutMe.eye_color}</p>
+                <p>Mass: {openingAboutMe.mass} kg</p>
+                <p>Birth Year: {openingAboutMe.birth_year}</p>
             </div>
         </p>
     );
