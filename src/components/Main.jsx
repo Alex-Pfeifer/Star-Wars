@@ -5,8 +5,14 @@ import {navItems} from "../utils/constants.js";
 import AboutMe from "./About Me.jsx";
 import StarWars from "./StarWars.jsx";
 import Contact from "./Contact.jsx";
+import {useContext} from "react";
+import {StarWarsContext} from "../utils/context.js";
 
-const Main = ({page}) => {
+
+
+const Main = () => {
+
+    const {page} = useContext(StarWarsContext);
 
     switch (page) {
         case navItems[1]:
