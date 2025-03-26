@@ -12,9 +12,10 @@ function App() {
     return (
         <div className={'container-fluid'}>
             <StarWarsContext.Provider value={{
-                page
+                page, setPage
             }}>
-            <Header changePage={setPage}/>
+            <Header/>
+                {/*<Header changePage={setPage}/>*/}
             <Main/>
             <Footer/>
                 </StarWarsContext.Provider>
