@@ -17,8 +17,9 @@ function App() {
             <Header/>
                 {/*<Header changePage={setPage}/>*/}
             <Main/>
+            </StarWarsContext.Provider>
             <Footer/>
-                </StarWarsContext.Provider>
+
         </div>
     )
 }
